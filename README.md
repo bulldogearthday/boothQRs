@@ -1,2 +1,2 @@
 # boothQRs
-QR codes for the booths
+QR codes for the booths. Generated with http://goqr.me/
